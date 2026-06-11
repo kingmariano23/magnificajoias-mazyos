@@ -45,3 +45,16 @@ A Magnífica está em seu 20º aniversário — momento com força comunicaciona
 ## O que mais é pedido ao sistema
 
 Legendas para posts e reels, roteiros de vídeo, copy de anúncios (tráfego pago Google e Meta) — para as duas submarcas. Separar sempre claramente se o conteúdo é para Matriz ou Abel Cabral, pois as regras de formatação e tom são distintas.
+
+## Campanhas Meta Ads ativas (jun/2026)
+
+Duas campanhas rodando em paralelo:
+
+**Força de Mulher, Amor de Mãe [Recon]** — objetivo: alcance/awareness
+Conjuntos: Noivas/Força da Mulher, Mulher, Dia dos Namorados, Junino, Copa.
+
+**Seja uma Consultora [Engajamento] [CBO]** — objetivo: conversas via WhatsApp (recrutamento de consultoras)
+Conjuntos: Novo conjunto de Engajamento, Copa, Depoimentos, Dia dos Namorados, Junino.
+
+**Benchmark período 06/05–09/06/2026:**
+R$ 1.225,55 investidos → 305.994 pessoas alcançadas, 581.402 impressões, 2.192 cliques, CPC R$ 0,56, CPM R$ 1,01–1,16. 382 conversas iniciadas via WhatsApp. Junino = melhor eficiência de custo (R$ 1,02 CPM). Dia dos Namorados = maior CTR e menor CPC na campanha de awareness.
