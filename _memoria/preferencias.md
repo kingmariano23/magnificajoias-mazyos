@@ -53,6 +53,15 @@ Formalidade: informal premium. Trata por "você". Usa "a gente", "pra", "tá".
   *(o 📍 é o único símbolo permitido — é endereçamento, não emoji decorativo)*
 - CTA é convite físico: "Vem na Mag", "Passa aqui", "Chama no WhatsApp"
 
+## Estrutura de copy — Criativos de tráfego (Headline + Texto)
+
+Formato diferente da legenda de post — não segue os 3 blocos. É o texto curto usado direto no criativo de anúncio (Meta Ads).
+
+- **Headline:** curta, 3-6 palavras, é o gancho
+- **Texto:** complementa a headline, geralmente em eco ou trocadilho com ela (ex: "Combine do seu jeito" / "Combina com você", "Presenteie você mesma" / "A ocasião é você")
+- Sem emojis, mesma regra da Abel
+- Sem necessidade de CTA + endereço nesse formato (isso fica pro destino do anúncio, não no texto do criativo)
+
 ## Formatação de carrosséis e posts
 
 Ao apresentar estrutura de carrossel ou post, seguir este padrão obrigatório:
@@ -80,6 +89,10 @@ Frases curtas e percussivas. Emoção antes de argumento. Produto como resultado
 - "não pede desculpa pra nenhum metal" — construção artificial
 - "com procura real agora" — o "real" nesse contexto soa IA
 - Excesso de pontos finais criando ritmo picotado demais
+
+## Fluxo de trabalho — ajustes pontuais
+
+Quando o usuário pede ajuste em um texto específico de um lote já entregue, trazer só o texto ajustado. Não reproduzir o lote inteiro de novo.
 
 ## Regras de collab Matriz + Abel
 
