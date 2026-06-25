@@ -13,7 +13,7 @@
 - **Matriz:** mulheres 30-45 anos, classes C/D — potenciais consultoras (renda extra, empoderamento) e consultoras ativas (crescimento, retenção, comunidade)
 - **Abel Cabral:** mulheres que compram joias para si ou para presentear — consumidor final em Parnamirim e Natal/RN
 
-**Equipe:** Júnior Batista e a fundadora. Colaboradoras internas (ex: Ceição, Kenneth, Adriely mencionadas em materiais)
+**Equipe:** Júnior Batista e a fundadora. Colaboradoras internas (ex: Ceição, Kenneth, Adriely mencionadas em materiais). Equipe de conteúdo no Trello: Juarez Eudes (grava/corta vídeos de depoimento, sobe corte via link mycloud nos comentários do card) e Renata Oliveira (revisa CTA/roteiro antes de publicar)
 
 **Localização Abel Cabral:** Chameau Mall II, Loja 03 — Av. Abel Cabral, 607, Nova Parnamirim/RN
 
