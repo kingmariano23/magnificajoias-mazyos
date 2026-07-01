@@ -109,3 +109,7 @@ Quando o briefing descreve uma cena (props, figurino, cenário, contexto temáti
 ## Posicionamento do aço em posts de recrutamento (Matriz)
 
 Quando o post foca em captação de consultoras, o aço entra como argumento de timing ("o momento te impulsiona", "as clientes já chegaram pedindo") — não como protagonista do produto. O produto apoia o argumento de oportunidade, não substitui ele.
+
+## CTA em peças emocionais de data comemorativa
+
+Em Reels/post de tom emocional ou reflexivo (ex: Dia dos Pais, Dia das Mães), usar CTA reflexiva e sem endereço — mesmo em card Abel ou collab que normalmente fecha com localização. Ex. aprovado: "Marca aqui embaixo aquele que te ensinou a ter estilo." A localização quebra o clima da peça; o convite deve ser à reflexão/interação, não à visita à loja.
