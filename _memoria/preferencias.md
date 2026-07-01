@@ -98,6 +98,10 @@ Quando o usuário pede ajuste em um texto específico de um lote já entregue, t
 
 Em posts de collab entre as duas marcas: emojis são mais flexíveis (não seguir a proibição absoluta da Abel) e o tom é geral — sem referência direta a consultoras.
 
+## Adaptar post pré-escrito à peça recebida
+
+Fluxo recorrente: os posts são redigidos antes das peças chegarem e depois adaptados às peças efetivamente fotografadas. Quando o material ou tipo citado no texto pré-escrito não bate com a peça real (ex: o texto dizia "aço", mas a peça era pulseira de couro / relógio Casio), reescrever pra bater com a peça — a peça recebida manda no copy. A menção segue a regra de sempre: um detalhe concreto e pontual como âncora + virada emocional, nunca ficha técnica.
+
 ## Peças como protagonistas do copy
 
 Quando o briefing descreve uma cena (props, figurino, cenário, contexto temático), o copy deve colocar as peças como protagonistas — não os elementos de cena. O cenário contextualiza; a joia é a estrela. Evitar copy que menciona mais o entorno (bolsa, chapéu, cerveja) do que os acessórios em si.

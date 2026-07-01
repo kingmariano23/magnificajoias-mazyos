@@ -201,6 +201,8 @@ look · você merece · transformar sua vida · golaço/pipoco (no contexto) ·
 arraiá · clima de · do jeito que você merece
 
 ### Evitar (soa a IA ou a anúncio genérico)
+- **"Brilho"** — proibida em qualquer comunicação, é marca registrada de
+  concorrente direto (ver `_memoria/preferencias.md`)
 - "Qualidade incomparável", "as melhores peças do mercado", "produtos de
   alta qualidade", "elevando o seu estilo a outro patamar"
 - "Não perca essa oportunidade única", "garanta já o seu", "imperdível"
